@@ -5,7 +5,7 @@ Soy estudiante de Platzi de Desarrollo web, actualmente estoy aprendiendo HTML, 
 En mi repositorio encontrarás algunos de mis proyector personales.
 
 ## <strong>Mis cursos completados:</strong>
-<a href="https://www.linkedin.com/in/josetvasco" target="_blank">
+<a href="https://drive.google.com/drive/folders/1UyfaDtlsXhWXKRys7ALl6yWxsL1PMm-M?usp=share_link" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1200px-Google_Drive_icon_%282020%29.svg.png?&style=for-the-badge&logo=linkedin&logoColor=white" width="30px">
   <p >Drive</p>
 </a>
