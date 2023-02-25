@@ -32,9 +32,13 @@ En mi repositorio encontrarás algunos de mis proyector personales.
 <a href="https://www.linkedin.com/in/josetvasco" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://twitter.com/_p4r7h" target="_blank">
+<a href="https://twitter.com/danieltvasco" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+<a href="https://www.instagram.com/danieltvasco/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 
 ## <strong>Estadísticas:</strong>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josetvasco)](https://github.com/anuraghazra/github-readme-stats)
